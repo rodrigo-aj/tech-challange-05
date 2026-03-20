@@ -116,4 +116,4 @@ O threshold pode ser calibrado dependendo da capacidade de intervenção (trade-
 
 ## Notas gerais
 
-Alguns documentos como **datathon.pdf** e **relatorio.pdf** podem ser encontrados no diretório **/files**K. Recomenda-se a leitura dos mesmos para melhor entendimento do problema e solução.
+Alguns documentos como **datathon.pdf** e **relatorio.pdf** podem ser encontrados no diretório **/files**. Recomenda-se a leitura dos mesmos para melhor entendimento do problema e solução.
