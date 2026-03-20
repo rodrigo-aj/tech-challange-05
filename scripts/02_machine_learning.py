@@ -1,5 +1,5 @@
 #%%
-"""03_machine_learning.py
+"""02_machine_learning.py
 
 Objetivo:
 - Construir dataset longitudinal T→T+1 (ano T como features; ano T+1 como target)
